@@ -1,0 +1,17 @@
+.navbar-nav li {
+    margin: 0 10px 0;
+}
+.navbar-brand {
+    margin: 0 20px 0;
+}
+
+fa-icon {
+    position: absolute;
+    margin-left: 10px;
+}
+.search-input {
+    text-indent: 20px;
+}
+#signInButton {
+    margin: 0 20px 0  400px;
+}
